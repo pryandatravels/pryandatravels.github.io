@@ -1,8 +1,16 @@
 {
   "name": "PR Yanda Travels",
   "short_name": "PR Yanda Travels",
-  "start_url": "/pryandatravels-vizag/",
+  "start_url": "/",
+  "scope": "/",
   "display": "standalone",
   "background_color": "#ffffff",
-  "theme_color": "#0c2a4a"
+  "theme_color": "#0c2a4a",
+  "icons": [
+    {
+      "src": "/logo.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
 }

@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://pryandatravels.github.io/pryandatravels-vizag/sitemap.xml
+Sitemap: https://pryandatravels.github.io/sitemap.xml
